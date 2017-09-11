@@ -1,0 +1,26 @@
+{
+  "name": "httprequest_server",
+  "version": "0.1.0",
+  "description": "Sencilla API para realizar peticiones HTTP con XMLHttpRequest, Reactjs, Angular, etc...",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoaquinAraujo/HttpRequest_server"
+  },
+  "keywords": [
+    "API",
+    "joaquinaraujojs",
+    "javascript",
+    "ecmascript2015",
+    "es6"
+  ],
+  "author": "Joaquin Araujo <joaquinaraujojs@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoaquinAraujo/HttpRequest_server/issues"
+  },
+  "homepage": "https://github.com/JoaquinAraujo/HttpRequest_server#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
