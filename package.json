@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/JoaquinAraujo/HttpRequest_server#readme",
   "dependencies": {
-    "express": "^4.15.4"
+    "express": "^4.15.4",
+    "xmlhttprequest": "^1.8.0"
   }
 }
